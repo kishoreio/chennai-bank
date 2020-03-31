@@ -1,0 +1,34 @@
+#cards {
+  width: 100%;
+  margin: 10px 0px 0px 10px;
+}
+
+#card-layout {
+  width: 350px;
+  height: 220px;
+  border: 1px solid black;
+  background: #b1b2bd;
+  color: white;
+  margin: 10px 0px 0px 10px;
+}
+#card-head {
+  height: 25%;
+  display: flex;
+  justify-content: space-around;
+  background: #0c2074;
+}
+#card-number {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+#card-type {
+  display: flex;
+  justify-content: space-around;
+}
+#card-chip {
+  margin-left: 5px;
+}
+#card-valid {
+  padding-left: 200px;
+}

@@ -1,0 +1,19 @@
+#transfer-form {
+  width: 100%;
+  margin: 15px 0px 0px 15px;
+}
+#fund-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 500px;
+  font-size: 30px;
+}
+.transfer-input {
+  margin: 5px 0px;
+}
+.return-text {
+  text-align: center;
+  color: red;
+}

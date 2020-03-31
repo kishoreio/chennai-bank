@@ -1,0 +1,19 @@
+#form-change {
+  width: 100%;
+  margin: 15px 0px 0px 15px;
+}
+#pin-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  font-size: 30px;
+}
+.pin-input {
+  margin: 5px 0px;
+}
+.pin-text {
+  text-align: center;
+  color: red;
+}

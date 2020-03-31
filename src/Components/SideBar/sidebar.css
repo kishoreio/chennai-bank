@@ -1,0 +1,16 @@
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 20%;
+  height: 595px;
+  font-weight: 30px;
+  margin: 5px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.sidebar-content {
+  padding: 10px 0px;
+  font-size: 30px;
+  border-bottom: 1px solid red;
+}

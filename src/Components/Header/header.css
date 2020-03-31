@@ -1,0 +1,39 @@
+#header {
+  display: flex;
+  justify-content: space-between;
+  background: #0c2074;
+  color: white;
+}
+.logo-caption {
+  padding-left: 90px;
+}
+#header-net {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+.login-detail {
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+}
+.net-text {
+  margin: 1px;
+}
+.logout {
+  width: 60%;
+}
+#head-user {
+  display: flex;
+}
+.profile-pic {
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.credential {
+  height: 25px;
+}
+.demo-cred {
+  text-align: center;
+  color: red;
+}

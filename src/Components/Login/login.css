@@ -1,0 +1,23 @@
+#form {
+  height: inherit;
+}
+#form-bg {
+  background: rgba(12, 32, 116, 0.5);
+  padding: 50px;
+  margin: 100px;
+}
+#form-elements {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+#login-bg {
+  background-image: url("https://www.usbank.com/dam/images/dto/hero-banner-desktop-1900x1173-1.jpg");
+  background-position: center;
+  height: 500px;
+  width: 100%;
+}
+.form-text {
+  color: white;
+  font-size: 20px;
+}
