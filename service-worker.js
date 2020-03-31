@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chennai-bank/precache-manifest.36466a53cd070d1d3f6b49241e343710.js"
+  "/chennai-bank/precache-manifest.92bddc9839d391d472764f263f141102.js"
 );
 
 self.addEventListener('message', (event) => {
