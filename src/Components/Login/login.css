@@ -12,7 +12,7 @@
   justify-content: flex-end;
 }
 #login-bg {
-  background-image: url("https://www.usbank.com/dam/images/dto/hero-banner-desktop-1900x1173-1.jpg");
+  background-image: url("../../Resources/banner.jpg");
   background-position: center;
   height: 500px;
   width: 100%;
