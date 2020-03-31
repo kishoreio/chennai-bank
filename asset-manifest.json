@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chennai-bank/static/css/main.3764f26b.chunk.css",
+    "main.css": "/chennai-bank/static/css/main.e48caa43.chunk.css",
     "main.js": "/chennai-bank/static/js/main.30932381.chunk.js",
     "main.js.map": "/chennai-bank/static/js/main.30932381.chunk.js.map",
     "runtime-main.js": "/chennai-bank/static/js/runtime-main.24b90889.js",
@@ -9,11 +9,12 @@
     "static/js/2.51f2832c.chunk.js": "/chennai-bank/static/js/2.51f2832c.chunk.js",
     "static/js/2.51f2832c.chunk.js.map": "/chennai-bank/static/js/2.51f2832c.chunk.js.map",
     "index.html": "/chennai-bank/index.html",
-    "precache-manifest.2991bae02107e2cbeda61c8676da1414.js": "/chennai-bank/precache-manifest.2991bae02107e2cbeda61c8676da1414.js",
+    "precache-manifest.a1abede8eb8e99bc9cb9dd53984377d5.js": "/chennai-bank/precache-manifest.a1abede8eb8e99bc9cb9dd53984377d5.js",
     "service-worker.js": "/chennai-bank/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/chennai-bank/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.3764f26b.chunk.css.map": "/chennai-bank/static/css/main.3764f26b.chunk.css.map",
+    "static/css/main.e48caa43.chunk.css.map": "/chennai-bank/static/css/main.e48caa43.chunk.css.map",
     "static/js/2.51f2832c.chunk.js.LICENSE.txt": "/chennai-bank/static/js/2.51f2832c.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/chennai-bank/static/media/banner.35d22619.jpg",
     "static/media/chip.png": "/chennai-bank/static/media/chip.c993dbe1.png",
     "static/media/ssl.png": "/chennai-bank/static/media/ssl.4e8ac07a.png"
   },
@@ -21,7 +22,7 @@
     "static/js/runtime-main.24b90889.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.51f2832c.chunk.js",
-    "static/css/main.3764f26b.chunk.css",
+    "static/css/main.e48caa43.chunk.css",
     "static/js/main.30932381.chunk.js"
   ]
 }
