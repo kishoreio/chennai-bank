@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7810710bb1b268960aac08c2a54f3de",
+    "revision": "521339e316046126190bd6d90dee7db5",
     "url": "/chennai-bank/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chennai-bank/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "cbe1bad26f004326c8cb",
+    "revision": "f27240997a07f3822bf5",
     "url": "/chennai-bank/static/css/main.3764f26b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chennai-bank/static/js/2.b49dcbc3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbe1bad26f004326c8cb",
-    "url": "/chennai-bank/static/js/main.fcab07c0.chunk.js"
+    "revision": "f27240997a07f3822bf5",
+    "url": "/chennai-bank/static/js/main.9b132ca4.chunk.js"
   },
   {
     "revision": "c7a8f8e50ceb26dd1dfd",
