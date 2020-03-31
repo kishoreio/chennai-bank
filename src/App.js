@@ -2,7 +2,7 @@ import React from "react";
 import Login from "./Components/Login/Login";
 import "./app.css";
 import Header from "./Components/Header/Header";
-import { HashRouter, Route, Switch, Redirect } from "react-HashRouter-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 import Error from "./Components/404/Error";
 import DashBoard from "./Components/DashBoard/DashBoard";
 
