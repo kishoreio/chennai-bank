@@ -2,7 +2,7 @@
 A fullstack application of netbanking for chennai bank where users can see the account details, transfer amount to another account, view transaction details and more.
 #### Live Version - [Chennai Bank](https://kishoreio.github.io/chennai-bank/#/)
 #### Code
-* [Front-end](hhttps://github.com/kishoreio/chennai-bank)
+* [Front-end](https://github.com/kishoreio/chennai-bank)
 * [Bank-end](https://github.com/kishoreio/chennai-bank/tree/back-end)
 #### Built With
 * Reactjs for front-end.
